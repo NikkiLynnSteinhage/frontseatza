@@ -1,4 +1,4 @@
-export default function FrontSeatLeelynLandingPage() {
+export default function () {
   return (
     <>
       <style>{`
