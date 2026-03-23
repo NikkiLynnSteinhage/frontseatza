@@ -1,5 +1,5 @@
 {
-  "name": "frontseat-leelyn-germany-drivers",
+  "name": "frontseat-leelyn-full-js",
   "private": true,
   "scripts": {
     "dev": "next dev",
